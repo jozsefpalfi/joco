@@ -1,1 +1,3 @@
 ignore
+
+ezt otthonrol irtam bele
